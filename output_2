@@ -1,0 +1,16 @@
+Most Common Price Range: 1
+Price range
+1    1.999887
+2    2.941054
+3    3.683381
+4    3.817918
+Name: Aggregate rating, dtype: float64
+Rating color
+Dark Green    4.659801
+Green         4.168119
+Yellow        3.683429
+Orange        3.051619
+Red           2.297849
+White         0.000000
+Name: Aggregate rating, dtype: float64
+Highest Rated Color: Dark Green

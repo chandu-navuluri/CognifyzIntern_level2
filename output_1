@@ -1,0 +1,12 @@
+Restaurants with Table Booking: 12.12%
+Restaurants with Online Delivery: 25.66%
+Has Table booking
+No     2.559359
+Yes    3.441969
+Name: Aggregate rating, dtype: float64
+Has Online delivery    No   Yes
+Price range                    
+1                    3743   701
+2                    1827  1286
+3                     997   411
+4                     533    53

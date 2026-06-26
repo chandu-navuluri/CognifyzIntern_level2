@@ -1,0 +1,19 @@
+Restaurant_Name_Length  Address_Length
+0                      16              71
+1                      16              67
+2                      22              56
+3                       4              70
+4                      11              64
+0    1
+1    1
+2    1
+3    0
+4    1
+Name: Has_Table_Booking, dtype: int64
+0    0
+1    0
+2    0
+3    0
+4    0
+Name: Has_Online_Delivery, dtype: int64
+Feature engineered dataset saved.
